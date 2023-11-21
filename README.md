@@ -1,1 +1,1 @@
-![Build status](https://ci.appveyor.com/api/projects/status/3ooe61mcwwhyj2xh/branch/master?svg=true)](https://ci.appveyor.com/project/AntonDolmatov22388/hw-unit-5-patterns-2/branch/master)
+![Build status](https://ci.appveyor.com/api/projects/status/3ooe61mcwwhyj2xh/branch/master?svg=true)]
